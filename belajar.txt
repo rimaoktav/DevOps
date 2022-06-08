@@ -1,2 +1,3 @@
 ini dari branch rima
 edit 123
+ini rima bukan main
